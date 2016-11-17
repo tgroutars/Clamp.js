@@ -1,0 +1,11 @@
+{
+  "name": "Clamp.js",
+  "version": "0.7.0",
+  "main": "clamp.js",
+  "repository": {
+    "url": "git@github.com:tgroutars/Clamp.js.git",
+    "type": "git"
+  },
+  "author": "Thomas Groutars <tgroutars@gmail.com>",
+  "license": "MIT"
+}
